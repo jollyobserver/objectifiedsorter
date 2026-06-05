@@ -129,7 +129,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Maple Syrup",
-    img: "github.com/jollyobserver/objsort/blob/main/src/assets/chars/ms.png",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/ms.png",
     opts: {
       stage: ["mainplus"]
     }
