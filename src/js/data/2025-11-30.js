@@ -479,7 +479,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Dynamite's parents",
-    img: "",
+    img: "raw.githubusercontent.com/jollyobserver/objsort/refs/heads/main/src/assets/chars/prt.png",
     opts: {
       stage: ["all"]
     }
