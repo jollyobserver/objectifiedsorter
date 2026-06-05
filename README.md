@@ -8,4 +8,4 @@ objectified character sorter lol
  * [thsort](http://mainyan.sakura.ne.jp/thsort.html) for the original inspiration.
 
 [charasort](https://github.com/execfera/charasort) was the base i used for this 
-assets from [https://www.objectifiedcomic.com](the official Objectified website) and [https://trello.com/b/szfM8ZCu/objectified-guide](Pluto's lore guide)
+assets from [the official Objectified website](https://www.objectifiedcomic.com) and [Pluto's lore guide](https://trello.com/b/szfM8ZCu/objectified-guide)
